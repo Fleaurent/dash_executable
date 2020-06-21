@@ -1,0 +1,8 @@
+# building
+*.spec
+build/
+dist/
+
+# packages
+__pycache__/
+src/*.egg-info
